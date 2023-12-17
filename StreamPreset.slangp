@@ -1,0 +1,26 @@
+// ----------------------------------------------------------------------------------------------------------------
+// Freelanzer's Streaming Preset
+// ----------------------------------------------------------------------------------------------------------------
+
+#reference "../TheNamec-Commodore/presets/RetroWalls_DarkStucco/Commodore_C1084S-D2/MBZ_SHARP_STD/NEAR_CURVED_NIGHT.slangp"
+
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_NON_INTEGER_SCALE = "76.000000"
+HSM_SCREEN_POSITION_X = "-210.000000"
+HSM_SCREEN_POSITION_Y = "26.000000"
+HSM_LED_OPACITY = "0.000000"
+HSM_SCREEN_VIGNETTE_ON = "0.000000"
+HSM_SCREEN_VIGNETTE_STRENGTH = "0.000000"
+HSM_TUBE_DIFFUSE_MODE = "1.000000"
+HSM_TUBE_DIFFUSE_IMAGE_BRIGHTNESS = "33.000000"
+HSM_TUBE_DIFFUSE_IMAGE_SCALE = "105.000000"
+HSM_TUBE_SHADOW_IMAGE_OPACITY = "50.000000"
+HSM_TUBE_STATIC_REFLECTION_IMAGE_ON = "1.000000"
+HSM_TUBE_STATIC_REFLECTION_IMAGE_OPACITY = "34.800079"
+HSM_TUBE_STATIC_OPACITY_DIFFUSE_MULTIPLY = "100.000000"
+HSM_TUBE_STATIC_BLACK_LEVEL = "9.000000"
+
+TubeStaticReflectionImage = "../FLZ/Tube_Reflection_01.png"
+TubeDiffuseImage = "../FLZ/phosphor_01.png"
+IntroImage = "../FLZ/intro-flz.png"
+BackgroundImage = "../FLZ/bg.jpg"
